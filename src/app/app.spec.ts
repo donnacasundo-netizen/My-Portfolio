@@ -19,6 +19,10 @@ describe('App', () => {
     const fixture = TestBed.createComponent(App);
     await fixture.whenStable();
     const compiled = fixture.nativeElement as HTMLElement;
+<<<<<<< HEAD
     expect(compiled.querySelector('h1')?.textContent).toContain('Hello, My-Portfolio');
+=======
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, my-angular-app');
+>>>>>>> 9120095 (initial commit)
   });
 });

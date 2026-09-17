@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-portfolio",
+=======
+  "name": "my-angular-app",
+>>>>>>> 9120095 (initial commit)
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
