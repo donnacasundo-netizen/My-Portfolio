@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "my-portfolio",
+=======
+
+  "name": "my-portfolio",
+
+  "name": "my-angular-app",
+ 9120095 
+>>>>>>> f1f611075695176f5ab4c5fc3266f84509a8c76e
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
